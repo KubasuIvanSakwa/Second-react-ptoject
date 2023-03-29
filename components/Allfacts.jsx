@@ -9,7 +9,7 @@ export const allFacts = [
     },
     {
         id: 2,
-        fact: 'Has well over 100k start on Github'
+        fact: 'Has well over 100k stars on Github'
     },
     {
         id: 3,
