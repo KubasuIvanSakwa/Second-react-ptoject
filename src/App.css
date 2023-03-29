@@ -1,0 +1,95 @@
+.head {
+    position: absolute;
+    width: 550px;
+    height: 91px;
+    left: 10px;
+    top: 10px;
+    background: #21222A;
+}
+
+.head img {
+    position: absolute;
+    left: 3%;
+    right: 21.35%;
+    top: 35%;
+}
+
+.head h1 {
+    position: absolute;
+    left: 61.61px;
+    top: 20px;
+    margin-bottom: 10px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22.2535px;
+    line-height: 27px;
+    letter-spacing: -0.05em;
+    color: #61DAFB;
+}
+
+.head h4 {
+    position: absolute;
+    width: 259px;
+    height: 21px;
+    left: 264px;
+    top: 20px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: right;
+
+    color: #DEEBF8;
+}
+
+.Facts {
+   position: absolute;
+   width: 550px;
+   height: 400px;
+   left: 10px;
+   top: 101px;
+   background: #282D35;
+   z-index: 3;
+   overflow: hidden;
+}
+
+.Facts h1 {
+    margin-left: 10px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 39.06px;
+    line-height: 47px;
+    letter-spacing: -0.05em;
+
+    color: #FFFFFF;
+}
+
+.Facts img {
+    position: absolute;
+    z-index: -1;
+    width: 200px;
+    left: 80%;
+    top: 15%;
+    color: grey;
+}
+
+.Facts ul {
+    color: #FFFFFF;
+    list-style: none;
+    font-size: 16px;
+}
+
+.Facts li::before {
+    content: "\2022";
+    font-weight: bold;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em;
+    
+    color: #61DAFB;
+}
