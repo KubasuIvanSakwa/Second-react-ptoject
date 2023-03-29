@@ -2,7 +2,7 @@
 <h4>use of react components and rendering lists to the Ui</h4>
 
 
-![image](https://user-images.githubusercontent.com/72573043/228504285-efb9d06d-b21d-49f2-9958-61d8a7f06e78.png)
+![image](https://user-images.githubusercontent.com/72573043/228505901-ba0c9082-e494-4f9f-9f32-f12d4986bf47.png)
 
 
 
