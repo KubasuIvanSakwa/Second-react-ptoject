@@ -1,8 +1,7 @@
 #root {
-    display: flex;
-    flex-diretion: column;
-    justify-content: center;
-    align-items: center;
+    position: absolute;
+    left: 35%;
+    top: 30%;
 }
     
 .head {
