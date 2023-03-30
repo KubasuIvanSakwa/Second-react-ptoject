@@ -1,3 +1,10 @@
+.App {
+    display: flex;
+    flex-diretion: column;
+    justify-content: center;
+    align-items: center;
+}
+    
 .head {
     position: absolute;
     width: 550px;
